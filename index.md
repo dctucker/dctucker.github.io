@@ -39,20 +39,20 @@ Developer Story
 
 ### [Brax](http://brax.io)
 
-Social Media and Content Marketing
+Social Media and Content Marketing *— analytical reporting integrated with Google Analytics with user-defined calculations, monthly recurring revenue over $30k*
 
 ### [Wide Open Technologies](http://www.wideopentech.com)
 
-Software Engineering
+Software Engineering *— too many projects to mention*
 
 ### [Go Energies](http://goenergies.com)
 
-Fuel Site Management
+Fuel Site Management *— #10 on Inc. 500 list in 2014, annual revenue of $203k in 2010 grew to $32 million by 2013*
 
 ### [Moog Music](http://www.moogmusic.com)
 
-Synthesizers
+Synthesizers *— more than just twelve-tone equal temperament*
 
 ### [Carolina Christian Radio](http://www.carolinachristianradio.com)
 
-Broadcast and streaming Internet Radio
+Broadcast and Streaming Internet Radio *— music log integration and automatic audio file ingestion*
