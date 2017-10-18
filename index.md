@@ -18,16 +18,41 @@ Rubicks Cube implementation in Python using vpython library.
 
 ## Website Links
 
-- [Blog](//dctucker.wordpress.com)
-- [Resume](http://dctucker.com/resume.pdf)
-- [LinkedIn](//www.linkedin.com/in/dcaseytucker)
-- [StackOverflow](//stackoverflow.com/story/dctucker)
+### [Wordpress](//dctucker.wordpress.com)
+
+General Blog
+
+### [Resume](http://dctucker.com/resume.pdf)
+
+Career Summary
+
+### [LinkedIn](//www.linkedin.com/in/dcaseytucker)
+
+Professional Network
+
+### [StackOverflow](//stackoverflow.com/story/dctucker)
+
+Developer Story
 
 
 ## Company Links
 
-- [Brax](http://brax.io)
-- [Wide Open Technologies](http://www.wideopentech.com)
-- [Go Energies](http://goenergies.com)
-- [Moog Music](http://www.moogmusic.com)
-- [Carolina Christian Radio](http://www.carolinachristianradio.com)
+### [Brax](http://brax.io)
+
+Social Media and Content Marketing
+
+### [Wide Open Technologies](http://www.wideopentech.com)
+
+Software Engineering
+
+### [Go Energies](http://goenergies.com)
+
+Fuel Site Management
+
+### [Moog Music](http://www.moogmusic.com)
+
+Synthesizers
+
+### [Carolina Christian Radio](http://www.carolinachristianradio.com)
+
+Broadcast and streaming Internet Radio
