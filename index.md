@@ -11,9 +11,9 @@ A wavetable sampler and synthesizer application in OpenGL and wxWidgets.
 
 Minesweeper in Python using ncurses.
 
-### [Rubiks](https://github.com/dctucker/rubicks)
+### [drmario](https://github.com/dctucker/drmario)
 
-Rubicks Cube implementation in Python using vpython library.
+Implementation of the classic game involving antiviral medication 
 
 
 ## Website Links
