@@ -1,0 +1,9 @@
+<map id="MelodicInstrument" name="MelodicInstrument">
+<area shape="rect" id="node1" title=" " alt="" coords="222,978,468,1281"/>
+<area shape="rect" id="node4" href="$db/d87/class_non_audio_instrument.html" title=" " alt="" coords="139,1329,333,1633"/>
+<area shape="rect" id="node7" href="$d7/d5e/class_sound_instrument.html" title=" " alt="" coords="357,1352,552,1610"/>
+<area shape="rect" id="node2" href="$df/d4d/class_instrument.html" title=" " alt="" coords="240,537,451,930"/>
+<area shape="rect" id="node3" href="$db/db4/class_output.html" title=" " alt="" coords="232,5,458,489"/>
+<area shape="rect" id="node5" href="$d8/d52/class_c_v_instrument.html" title=" " alt="" coords="5,1741,216,1984"/>
+<area shape="rect" id="node6" href="$de/d1e/class_m_i_d_i_instrument.html" title=" " alt="" coords="239,1681,486,2044"/>
+</map>

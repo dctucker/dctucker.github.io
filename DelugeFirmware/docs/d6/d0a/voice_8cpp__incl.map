@@ -1,0 +1,52 @@
+<map id="src/voice.cpp" name="src/voice.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="1966,5,2065,31"/>
+<area shape="rect" id="node2" href="$da/deb/_audio_engine_8h.html" title=" " alt="" coords="2139,226,2244,252"/>
+<area shape="rect" id="node5" href="$d6/d6e/_audio_file_manager_8h.html" title=" " alt="" coords="2457,226,2592,252"/>
+<area shape="rect" id="node9" href="$d6/dc2/definitions_8h.html" title=" " alt="" coords="1499,300,1590,326"/>
+<area shape="rect" id="node11" href="$d6/d42/_cluster_8h.html" title=" " alt="" coords="2752,153,2825,178"/>
+<area shape="rect" id="node13" href="$d9/d88/sound_8h.html" title=" " alt="" coords="1296,79,1364,105"/>
+<area shape="rect" id="node20" href="$d6/d33/_param_set_8h.html" title=" " alt="" coords="1586,153,1677,178"/>
+<area shape="rect" id="node21" href="$d0/d60/voice_8h.html" title=" " alt="" coords="496,79,559,105"/>
+<area shape="rect" id="node22" href="$d2/dbd/_filter_set_8h.html" title=" " alt="" coords="283,153,364,178"/>
+<area shape="rect" id="node23" href="$d8/d5c/functions_8h.html" title=" " alt="" coords="122,226,207,252"/>
+<area shape="rect" id="node24" href="$d3/d11/lookuptables_8h.html" title=" " alt="" coords="5,300,111,326"/>
+<area shape="rect" id="node25" title=" " alt="" coords="186,300,250,326"/>
+<area shape="rect" id="node26" href="$df/d5c/_filter_set_config_8h.html" title=" " alt="" coords="412,226,531,252"/>
+<area shape="rect" id="node27" href="$d2/da3/song_8h.html" title=" " alt="" coords="1539,79,1599,105"/>
+<area shape="rect" id="node28" href="$de/d89/_time_stretcher_8h.html" title=" " alt="" coords="1684,226,1797,252"/>
+<area shape="rect" id="node29" href="$dd/d42/_sample_8h.html" title=" " alt="" coords="131,153,207,178"/>
+<area shape="rect" id="node30" href="$d8/d32/_waveform_renderer_8h.html" title=" " alt="" coords="1821,226,1964,252"/>
+<area shape="rect" id="node31" href="$d2/dfd/playbackhandler_8h.html" title=" " alt="" coords="1989,226,2114,252"/>
+<area shape="rect" id="node32" href="$d0/d67/_wave_table_8h.html" title=" " alt="" coords="2925,300,3021,326"/>
+<area shape="rect" id="node33" href="$d5/d3a/_general_memory_allocator_8h.html" title=" " alt="" coords="1991,79,2165,105"/>
+<area shape="rect" id="node34" href="$df/d6c/_multisample_range_8h.html" title=" " alt="" coords="1675,79,1815,105"/>
+<area shape="rect" id="node35" href="$d9/d94/_sample_holder_for_voice_8h.html" title=" " alt="" coords="1751,153,1917,178"/>
+<area shape="rect" id="node36" href="$d9/ddc/storagemanager_8h.html" title=" " alt="" coords="2616,226,2740,252"/>
+<area shape="rect" id="node37" href="$db/dfc/_sample_cache_8h.html" title=" " alt="" coords="2268,226,2382,252"/>
+<area shape="rect" id="node38" href="$d9/da7/_voice_sample_8h.html" title=" " alt="" coords="2391,79,2501,105"/>
+<area shape="rect" id="node39" href="$dc/db4/_live_pitch_shifter_8h.html" title=" " alt="" coords="588,153,712,178"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2575,79,2621,105"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2645,79,2735,105"/>
+<area shape="rect" id="node42" href="$d2/d86/uart_8h.html" title=" " alt="" coords="3046,300,3100,326"/>
+<area shape="rect" id="node43" href="$df/d8d/_model_stack_8h.html" title=" " alt="" coords="2810,79,2911,105"/>
+<area shape="rect" id="node44" href="$de/d13/render_wave_8h.html" title=" " alt="" coords="2935,79,3037,105"/>
+<area shape="rect" id="node45" href="$de/dbc/_patch_cable_set_8h.html" title=" " alt="" coords="959,153,1080,178"/>
+<area shape="rect" id="node46" href="$d7/dc7/_instrument_clip_8h.html" title=" " alt="" coords="827,79,945,105"/>
+<area shape="rect" id="node47" href="$dd/d7a/_flash_storage_8h.html" title=" " alt="" coords="3123,300,3233,326"/>
+<area shape="rect" id="node48" title=" " alt="" coords="3213,79,3317,105"/>
+<area shape="rect" id="node49" title=" " alt="" coords="3342,79,3396,105"/>
+<area shape="rect" id="node50" title=" " alt="" coords="3419,79,3529,105"/>
+<area shape="rect" id="node3" title=" " alt="" coords="2007,374,2101,399"/>
+<area shape="rect" id="node4" title=" " alt="" coords="274,300,314,326"/>
+<area shape="rect" id="node6" href="$d5/d21/_audio_file_vector_8h.html" title=" " alt="" coords="2167,300,2290,326"/>
+<area shape="rect" id="node7" href="$d9/d09/_cluster_priority_queue_8h.html" title=" " alt="" coords="2315,300,2468,326"/>
+<area shape="rect" id="node8" href="$db/dd2/_bidirectional_linked_list_8h.html" title=" " alt="" coords="2688,300,2850,326"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2543,300,2613,326"/>
+<area shape="rect" id="node12" href="$d7/de0/_stealable_8h.html" title=" " alt="" coords="2764,226,2851,252"/>
+<area shape="rect" id="node14" href="$d2/d33/patcher_8h.html" title=" " alt="" coords="490,153,565,178"/>
+<area shape="rect" id="node15" href="$d5/d14/compressor_8h.html" title=" " alt="" coords="1358,226,1457,252"/>
+<area shape="rect" id="node16" href="$d6/d62/lfo_8h.html" title=" " alt="" coords="1234,226,1280,252"/>
+<area shape="rect" id="node17" href="$da/d1b/source_8h.html" title=" " alt="" coords="1104,153,1175,178"/>
+<area shape="rect" id="node18" href="$d5/dc3/_mod_controllable_audio_8h.html" title=" " alt="" coords="1250,153,1410,178"/>
+<area shape="rect" id="node19" href="$dd/d48/_arpeggiator_8h.html" title=" " alt="" coords="837,153,935,178"/>
+</map>

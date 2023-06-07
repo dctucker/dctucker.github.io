@@ -1,0 +1,13 @@
+<map id="MenuItemSyncLevel" name="MenuItemSyncLevel">
+<area shape="rect" id="node1" title=" " alt="" coords="465,744,626,868"/>
+<area shape="rect" id="node5" href="$d4/d4a/class_menu_item_arp_sync.html" title=" " alt="" coords="5,923,155,1032"/>
+<area shape="rect" id="node6" href="$d2/d61/class_menu_item_delay_sync.html" title=" " alt="" coords="178,923,342,1032"/>
+<area shape="rect" id="node7" href="$d8/dfb/class_menu_item_l_f_o1_sync.html" title=" " alt="" coords="366,923,527,1032"/>
+<area shape="rect" id="node8" href="$d0/df7/class_menu_item_sidechain_sync.html" title=" " alt="" coords="551,916,737,1039"/>
+<area shape="rect" id="node9" href="$dd/d95/class_menu_item_swing_interval.html" title=" " alt="" coords="762,916,940,1039"/>
+<area shape="rect" id="node10" href="$d5/dd1/class_menu_item_sync_level_relative_to_song.html" title=" " alt="" coords="964,916,1164,1039"/>
+<area shape="rect" id="node2" href="$d3/d20/class_menu_item_selection.html" title=" " alt="" coords="465,543,626,696"/>
+<area shape="rect" id="node3" href="$dc/d02/class_menu_item_value.html" title=" " alt="" coords="454,297,637,495"/>
+<area shape="rect" id="node4" href="$dc/d9c/class_menu_item.html" title=" " alt="" coords="428,5,663,249"/>
+<area shape="rect" id="node11" href="$da/d3e/class_menu_item_record_quantize.html" title=" " alt="" coords="967,1087,1161,1195"/>
+</map>

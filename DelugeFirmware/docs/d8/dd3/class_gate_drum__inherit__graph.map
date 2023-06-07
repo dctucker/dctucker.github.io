@@ -1,0 +1,6 @@
+<map id="GateDrum" name="GateDrum">
+<area shape="rect" id="node1" title=" " alt="" coords="162,738,304,906"/>
+<area shape="rect" id="node2" href="$d0/d8c/class_non_audio_drum.html" title=" " alt="" coords="131,432,336,690"/>
+<area shape="rect" id="node3" href="$df/d33/class_drum.html" title=" " alt="" coords="5,5,216,384"/>
+<area shape="rect" id="node4" href="$d6/d14/class_mod_controllable.html" title=" " alt="" coords="240,50,474,339"/>
+</map>

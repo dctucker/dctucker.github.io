@@ -1,0 +1,37 @@
+<map id="src/uitimermanager.h" name="src/uitimermanager.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3310,5,3453,31"/>
+<area shape="rect" id="node2" href="$d8/d55/_arranger_view_8cpp.html" title=" " alt="" coords="5,87,150,112"/>
+<area shape="rect" id="node3" href="$db/db5/_audio_clip_view_8cpp.html" title=" " alt="" coords="174,87,325,112"/>
+<area shape="rect" id="node4" href="$d6/d47/_audio_engine_8cpp.html" title=" " alt="" coords="350,87,491,112"/>
+<area shape="rect" id="node5" href="$df/dee/_audio_recorder_8cpp.html" title=" " alt="" coords="516,87,669,112"/>
+<area shape="rect" id="node6" href="$dc/d77/_browser_8cpp.html" title=" " alt="" coords="693,87,809,112"/>
+<area shape="rect" id="node7" href="$da/d58/_deluge_8cpp.html" title=" " alt="" coords="832,87,942,112"/>
+<area shape="rect" id="node8" href="$df/d52/_indicator_l_e_ds_8cpp.html" title=" " alt="" coords="966,87,1117,112"/>
+<area shape="rect" id="node9" href="$d3/d70/_instrument_clip_minder_8cpp.html" title=" " alt="" coords="1142,87,1333,112"/>
+<area shape="rect" id="node10" href="$db/dba/_instrument_clip_view_8cpp.html" title=" " alt="" coords="1357,87,1537,112"/>
+<area shape="rect" id="node11" href="$d0/dd6/_keyboard_screen_8cpp.html" title=" " alt="" coords="1561,87,1725,112"/>
+<area shape="rect" id="node12" href="$de/d79/_load_instrument_preset_u_i_8cpp.html" title=" " alt="" coords="1749,79,1921,120"/>
+<area shape="rect" id="node13" href="$d8/df0/_menu_item_audio_clip_sample_marker_editor_8cpp.html" title=" " alt="" coords="1945,79,2146,120"/>
+<area shape="rect" id="node14" href="$dc/d23/_menu_item_file_selector_8cpp.html" title=" " alt="" coords="2170,87,2364,112"/>
+<area shape="rect" id="node15" href="$db/d59/_menu_item_sample_loop_point_8cpp.html" title=" " alt="" coords="2389,87,2617,112"/>
+<area shape="rect" id="node16" href="$d4/d96/_numeric_layer_basic_text_8cpp.html" title=" " alt="" coords="2641,87,2848,112"/>
+<area shape="rect" id="node17" href="$d0/d79/_numeric_layer_loading_animation_8cpp.html" title=" " alt="" coords="2871,87,3124,112"/>
+<area shape="rect" id="node18" href="$d1/d5c/_numeric_layer_scroll_transition_8cpp.html" title=" " alt="" coords="3147,87,3387,112"/>
+<area shape="rect" id="node19" href="$d3/df8/_numeric_layer_scrolling_text_8cpp.html" title=" " alt="" coords="3410,79,3585,120"/>
+<area shape="rect" id="node20" href="$d1/df8/_pad_l_e_ds_8cpp.html" title=" " alt="" coords="3609,87,3733,112"/>
+<area shape="rect" id="node21" href="$d2/dc2/_qwerty_u_i_8cpp.html" title=" " alt="" coords="3757,87,3881,112"/>
+<area shape="rect" id="node22" href="$d7/def/_sample_marker_editor_8cpp.html" title=" " alt="" coords="3905,87,4090,112"/>
+<area shape="rect" id="node23" href="$db/d02/_sample_recorder_8cpp.html" title=" " alt="" coords="4114,87,4278,112"/>
+<area shape="rect" id="node24" href="$de/dad/_save_u_i_8cpp.html" title=" " alt="" coords="4303,87,4415,112"/>
+<area shape="rect" id="node25" href="$d6/d8e/_session_view_8cpp.html" title=" " alt="" coords="4440,87,4582,112"/>
+<area shape="rect" id="node26" href="$de/d6b/_u_i_8cpp.html" title=" " alt="" coords="4606,87,4688,112"/>
+<area shape="rect" id="node27" href="$d0/d04/_view_8cpp.html" title=" " alt="" coords="4713,87,4808,112"/>
+<area shape="rect" id="node28" href="$d3/d30/loadsongui_8cpp.html" title=" " alt="" coords="4832,87,4963,112"/>
+<area shape="rect" id="node29" href="$d9/daf/matrixdriver_8cpp.html" title=" " alt="" coords="4987,87,5123,112"/>
+<area shape="rect" id="node30" href="$da/d57/numericdriver_8cpp.html" title=" " alt="" coords="5146,87,5292,112"/>
+<area shape="rect" id="node31" href="$d4/d3e/playbackhandler_8cpp.html" title=" " alt="" coords="5316,87,5477,112"/>
+<area shape="rect" id="node32" href="$de/dd9/samplebrowser_8cpp.html" title=" " alt="" coords="5501,87,5657,112"/>
+<area shape="rect" id="node33" href="$db/d5c/soundeditor_8cpp.html" title=" " alt="" coords="5681,87,5815,112"/>
+<area shape="rect" id="node34" href="$db/dac/storagemanager_8cpp.html" title=" " alt="" coords="5840,87,6000,112"/>
+<area shape="rect" id="node35" href="$dc/d37/uitimermanager_8cpp.html" title=" " alt="" coords="6025,87,6181,112"/>
+</map>

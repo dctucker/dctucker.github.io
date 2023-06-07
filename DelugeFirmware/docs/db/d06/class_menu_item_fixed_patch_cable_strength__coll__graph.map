@@ -1,0 +1,11 @@
+<map id="MenuItemFixedPatchCableStrength" name="MenuItemFixedPatchCableStrength">
+<area shape="rect" id="node1" title=" " alt="" coords="111,1670,359,1823"/>
+<area shape="rect" id="node2" href="$d1/d3a/class_menu_item_patch_cable_strength_regular.html" title=" " alt="" coords="117,1378,353,1622"/>
+<area shape="rect" id="node3" href="$d5/d14/class_menu_item_patch_cable_strength.html" title=" " alt="" coords="117,1042,353,1330"/>
+<area shape="rect" id="node4" href="$dd/dc1/class_menu_item_integer_continuous.html" title=" " alt="" coords="20,886,226,964"/>
+<area shape="rect" id="node5" href="$dc/d53/class_menu_item_integer.html" title=" " alt="" coords="42,699,204,808"/>
+<area shape="rect" id="node6" href="$da/db9/class_menu_item_number.html" title=" " alt="" coords="50,543,196,651"/>
+<area shape="rect" id="node7" href="$dc/d02/class_menu_item_value.html" title=" " alt="" coords="31,297,215,495"/>
+<area shape="rect" id="node8" href="$dc/d9c/class_menu_item.html" title=" " alt="" coords="5,5,241,249"/>
+<area shape="rect" id="node9" href="$d9/d87/class_menu_item_with_c_c_learning.html" title=" " alt="" coords="249,856,445,994"/>
+</map>

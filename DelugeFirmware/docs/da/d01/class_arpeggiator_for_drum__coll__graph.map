@@ -1,0 +1,5 @@
+<map id="ArpeggiatorForDrum" name="ArpeggiatorForDrum">
+<area shape="rect" id="node1" title=" " alt="" coords="126,357,311,510"/>
+<area shape="rect" id="node2" href="$db/d48/class_arpeggiator_base.html" title=" " alt="" coords="5,5,219,294"/>
+<area shape="rect" id="node3" href="$d3/d2c/struct_arp_note.html" title=" " alt="" coords="243,88,408,211"/>
+</map>

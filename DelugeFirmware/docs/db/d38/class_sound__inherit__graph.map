@@ -1,0 +1,7 @@
+<map id="Sound" name="Sound">
+<area shape="rect" id="node1" title=" " alt="" coords="77,933,338,1446"/>
+<area shape="rect" id="node4" href="$d0/da3/class_sound_drum.html" title=" " alt="" coords="5,1494,194,1783"/>
+<area shape="rect" id="node5" href="$d7/d5e/class_sound_instrument.html" title=" " alt="" coords="218,1509,413,1768"/>
+<area shape="rect" id="node2" href="$d4/dd5/class_mod_controllable_audio.html" title=" " alt="" coords="91,342,324,885"/>
+<area shape="rect" id="node3" href="$d6/d14/class_mod_controllable.html" title=" " alt="" coords="90,5,325,294"/>
+</map>

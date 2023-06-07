@@ -1,0 +1,27 @@
+<map id="src/GlobalEffectableForSong.cpp" name="src/GlobalEffectableForSong.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="738,5,951,31"/>
+<area shape="rect" id="node2" href="$d9/d72/_global_effectable_for_song_8h.html" title=" " alt="" coords="756,79,933,105"/>
+<area shape="rect" id="node3" href="$d5/dab/_global_effectable_8h.html" title=" " alt="" coords="781,153,909,178"/>
+<area shape="rect" id="node4" href="$d5/dc3/_mod_controllable_audio_8h.html" title=" " alt="" coords="630,226,790,252"/>
+<area shape="rect" id="node24" href="$d2/dbd/_filter_set_8h.html" title=" " alt="" coords="1005,447,1087,473"/>
+<area shape="rect" id="node5" href="$dd/de2/_mod_controllable_8h.html" title=" " alt="" coords="883,374,1009,399"/>
+<area shape="rect" id="node9" href="$d9/db7/_audio_sample_8h.html" title=" " alt="" coords="451,447,561,473"/>
+<area shape="rect" id="node15" href="$d3/d10/_delay_8h.html" title=" " alt="" coords="279,300,344,326"/>
+<area shape="rect" id="node19" href="$d6/d62/lfo_8h.html" title=" " alt="" coords="812,374,859,399"/>
+<area shape="rect" id="node20" href="$d5/d14/compressor_8h.html" title=" " alt="" coords="594,300,693,326"/>
+<area shape="rect" id="node21" href="$d7/d8a/_midi_knob_array_8h.html" title=" " alt="" coords="718,300,833,326"/>
+<area shape="rect" id="node23" href="$da/d04/_param_descriptor_8h.html" title=" " alt="" coords="5,300,135,326"/>
+<area shape="rect" id="node6" href="$d6/dc2/definitions_8h.html" title=" " alt="" coords="836,595,928,620"/>
+<area shape="rect" id="node7" title=" " alt="" coords="369,668,462,694"/>
+<area shape="rect" id="node8" title=" " alt="" coords="829,668,935,694"/>
+<area shape="rect" id="node10" href="$d8/d5c/functions_8h.html" title=" " alt="" coords="507,521,593,547"/>
+<area shape="rect" id="node11" href="$d3/d11/lookuptables_8h.html" title=" " alt="" coords="453,595,559,620"/>
+<area shape="rect" id="node12" title=" " alt="" coords="647,595,712,620"/>
+<area shape="rect" id="node13" title=" " alt="" coords="583,595,624,620"/>
+<area shape="rect" id="node14" href="$df/d30/cfunctions_8h.html" title=" " alt="" coords="285,595,378,620"/>
+<area shape="rect" id="node16" title=" " alt="" coords="98,447,159,473"/>
+<area shape="rect" id="node17" href="$d5/d1c/_delay_buffer_8h.html" title=" " alt="" coords="149,374,250,399"/>
+<area shape="rect" id="node18" href="$d8/dbf/_impulse_response_processor_8h.html" title=" " alt="" coords="274,374,469,399"/>
+<area shape="rect" id="node22" href="$db/d2e/_resizeable_array_8h.html" title=" " alt="" coords="715,521,841,547"/>
+<area shape="rect" id="node25" href="$df/d5c/_filter_set_config_8h.html" title=" " alt="" coords="1017,521,1136,547"/>
+</map>

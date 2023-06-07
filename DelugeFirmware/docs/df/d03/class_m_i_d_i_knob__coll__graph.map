@@ -1,0 +1,9 @@
+<map id="MIDIKnob" name="MIDIKnob">
+<area shape="rect" id="node1" title=" " alt="" coords="188,1119,311,1243"/>
+<area shape="rect" id="node2" href="$dd/d29/class_knob.html" title=" " alt="" coords="88,858,211,981"/>
+<area shape="rect" id="node3" href="$d9/d6d/class_param_descriptor.html" title=" " alt="" coords="5,394,243,623"/>
+<area shape="rect" id="node4" href="$d3/d98/class_learned_m_i_d_i.html" title=" " alt="" coords="248,783,483,1056"/>
+<area shape="rect" id="node5" href="$d4/dc1/class_m_i_d_i_device.html" title=" " alt="" coords="267,297,490,720"/>
+<area shape="rect" id="node6" href="$d0/db3/class_m_i_d_i_port.html" title=" " alt="" coords="148,5,391,234"/>
+<area shape="rect" id="node7" href="$d4/d7b/class_m_i_d_i_input_channel.html" title=" " alt="" coords="414,65,562,174"/>
+</map>

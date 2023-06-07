@@ -1,0 +1,11 @@
+<map id="Output" name="Output">
+<area shape="rect" id="node1" title=" " alt="" coords="148,5,374,489"/>
+<area shape="rect" id="node2" href="$d6/ddd/class_audio_output.html" title=" " alt="" coords="5,537,261,930"/>
+<area shape="rect" id="node3" href="$df/d4d/class_instrument.html" title=" " alt="" coords="285,537,496,930"/>
+<area shape="rect" id="node4" href="$d7/d67/class_kit.html" title=" " alt="" coords="173,993,365,1266"/>
+<area shape="rect" id="node5" href="$d8/dbe/class_melodic_instrument.html" title=" " alt="" coords="390,978,636,1281"/>
+<area shape="rect" id="node6" href="$db/d87/class_non_audio_instrument.html" title=" " alt="" coords="307,1329,501,1633"/>
+<area shape="rect" id="node9" href="$d7/d5e/class_sound_instrument.html" title=" " alt="" coords="525,1352,720,1610"/>
+<area shape="rect" id="node7" href="$d8/d52/class_c_v_instrument.html" title=" " alt="" coords="173,1741,384,1984"/>
+<area shape="rect" id="node8" href="$de/d1e/class_m_i_d_i_instrument.html" title=" " alt="" coords="407,1681,654,2044"/>
+</map>

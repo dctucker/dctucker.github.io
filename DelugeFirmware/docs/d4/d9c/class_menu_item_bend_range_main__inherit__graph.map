@@ -1,0 +1,8 @@
+<map id="MenuItemBendRangeMain" name="MenuItemBendRangeMain">
+<area shape="rect" id="node1" title=" " alt="" coords="25,997,221,1105"/>
+<area shape="rect" id="node2" href="$da/d00/class_menu_item_bend_range.html" title=" " alt="" coords="39,856,207,949"/>
+<area shape="rect" id="node3" href="$dc/d53/class_menu_item_integer.html" title=" " alt="" coords="42,699,204,808"/>
+<area shape="rect" id="node4" href="$da/db9/class_menu_item_number.html" title=" " alt="" coords="50,543,196,651"/>
+<area shape="rect" id="node5" href="$dc/d02/class_menu_item_value.html" title=" " alt="" coords="31,297,215,495"/>
+<area shape="rect" id="node6" href="$dc/d9c/class_menu_item.html" title=" " alt="" coords="5,5,241,249"/>
+</map>

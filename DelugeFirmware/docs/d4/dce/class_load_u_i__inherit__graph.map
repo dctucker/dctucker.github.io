@@ -1,0 +1,9 @@
+<map id="LoadUI" name="LoadUI">
+<area shape="rect" id="node1" title=" " alt="" coords="113,1906,314,2014"/>
+<area shape="rect" id="node6" href="$d4/db4/class_load_instrument_preset_u_i.html" title=" " alt="" coords="5,2070,195,2358"/>
+<area shape="rect" id="node7" href="$d8/d39/class_load_song_u_i.html" title=" " alt="" coords="219,2062,435,2365"/>
+<area shape="rect" id="node2" href="$d9/d67/class_slot_browser.html" title=" " alt="" coords="95,1599,332,1858"/>
+<area shape="rect" id="node3" href="$db/dc8/class_browser.html" title=" " alt="" coords="97,603,330,1551"/>
+<area shape="rect" id="node4" href="$dc/d63/class_qwerty_u_i.html" title=" " alt="" coords="122,282,305,555"/>
+<area shape="rect" id="node5" href="$d8/de6/class_u_i.html" title=" " alt="" coords="119,5,308,234"/>
+</map>

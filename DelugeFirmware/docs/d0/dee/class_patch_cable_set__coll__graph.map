@@ -1,0 +1,12 @@
+<map id="PatchCableSet" name="PatchCableSet">
+<area shape="rect" id="node1" title=" " alt="" coords="143,1817,364,2106"/>
+<area shape="rect" id="node2" href="$d0/d60/class_param_collection.html" title=" " alt="" coords="5,1511,185,1754"/>
+<area shape="rect" id="node3" href="$d9/dc9/class_patch_cable.html" title=" " alt="" coords="346,1556,519,1709"/>
+<area shape="rect" id="node4" href="$d9/d6d/class_param_descriptor.html" title=" " alt="" coords="192,1190,430,1418"/>
+<area shape="rect" id="node10" href="$dd/d93/struct_destination.html" title=" " alt="" coords="209,1579,298,1687"/>
+<area shape="rect" id="node5" href="$d3/d25/class_auto_param.html" title=" " alt="" coords="536,1160,737,1448"/>
+<area shape="rect" id="node6" href="$d3/d70/class_param_node_vector.html" title=" " alt="" coords="562,973,711,1097"/>
+<area shape="rect" id="node7" href="$d6/d68/class_ordered_resizeable_array_with32bit_key.html" title=" " alt="" coords="516,696,757,924"/>
+<area shape="rect" id="node8" href="$d6/d3d/class_ordered_resizeable_array.html" title=" " alt="" coords="541,388,732,646"/>
+<area shape="rect" id="node9" href="$d2/d2a/class_resizeable_array.html" title=" " alt="" coords="529,5,744,339"/>
+</map>

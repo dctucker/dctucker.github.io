@@ -1,0 +1,12 @@
+<map id="ModControllableAudio" name="ModControllableAudio">
+<area shape="rect" id="node1" title=" " alt="" coords="483,342,716,885"/>
+<area shape="rect" id="node3" href="$d9/d89/class_global_effectable.html" title=" " alt="" coords="342,971,583,1409"/>
+<area shape="rect" id="node8" href="$d0/d9e/class_sound.html" title=" " alt="" coords="607,933,867,1446"/>
+<area shape="rect" id="node2" href="$d6/d14/class_mod_controllable.html" title=" " alt="" coords="483,5,717,294"/>
+<area shape="rect" id="node4" href="$d8/d3c/class_global_effectable_for_clip.html" title=" " alt="" coords="153,1494,361,1783"/>
+<area shape="rect" id="node7" href="$d8/d6c/class_global_effectable_for_song.html" title=" " alt="" coords="385,1592,572,1685"/>
+<area shape="rect" id="node5" href="$d6/ddd/class_audio_output.html" title=" " alt="" coords="5,1831,261,2224"/>
+<area shape="rect" id="node6" href="$d7/d67/class_kit.html" title=" " alt="" coords="285,1891,477,2164"/>
+<area shape="rect" id="node9" href="$d0/da3/class_sound_drum.html" title=" " alt="" coords="627,1494,815,1783"/>
+<area shape="rect" id="node10" href="$d7/d5e/class_sound_instrument.html" title=" " alt="" coords="840,1509,1034,1768"/>
+</map>

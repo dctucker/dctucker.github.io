@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['gate_5fmode_5fs_5ftrig_0',['GATE_MODE_S_TRIG',['../d6/dc2/definitions_8h.html#aa3c89f1fc8042ddea13bf4bb33a9bf7d',1,'definitions.h']]],
+  ['gate_5fmode_5fspecial_1',['GATE_MODE_SPECIAL',['../df/db6/_c_v_engine_8h.html#ab244d01d06d623a367985c28d7de9fa1',1,'CVEngine.h']]],
+  ['gate_5fmode_5fv_5ftrig_2',['GATE_MODE_V_TRIG',['../d6/dc2/definitions_8h.html#a8c1f035afaafdf725e12238795f20401',1,'definitions.h']]],
+  ['getmax_3',['getMax',['../df/d30/cfunctions_8h.html#a0cb49abc116a1e50ba34cd6a3525f3e1',1,'cfunctions.h']]],
+  ['getmin_4',['getMin',['../df/d30/cfunctions_8h.html#a874ffb698b2dab96f279d2f7d0992919',1,'cfunctions.h']]],
+  ['global_5fmidi_5fcommand_5floop_5',['GLOBAL_MIDI_COMMAND_LOOP',['../d6/dc2/definitions_8h.html#ae61f4ffc2f0a7182e250f9004d8eca37',1,'definitions.h']]],
+  ['global_5fmidi_5fcommand_5floop_5fcontinuous_5flayering_6',['GLOBAL_MIDI_COMMAND_LOOP_CONTINUOUS_LAYERING',['../d6/dc2/definitions_8h.html#a0a40021c8838a3020945b0933d85ab2a',1,'definitions.h']]],
+  ['global_5fmidi_5fcommand_5fplay_7',['GLOBAL_MIDI_COMMAND_PLAY',['../d6/dc2/definitions_8h.html#a11c5a10c21b71fb1dfeebff9c1017423',1,'definitions.h']]],
+  ['global_5fmidi_5fcommand_5fplayback_5frestart_8',['GLOBAL_MIDI_COMMAND_PLAYBACK_RESTART',['../d6/dc2/definitions_8h.html#aba0d0a37bed338ab38cfed5db89d6dc6',1,'definitions.h']]],
+  ['global_5fmidi_5fcommand_5frecord_9',['GLOBAL_MIDI_COMMAND_RECORD',['../d6/dc2/definitions_8h.html#ab5b6d07142d272c03f4769673199a434',1,'definitions.h']]],
+  ['global_5fmidi_5fcommand_5fredo_10',['GLOBAL_MIDI_COMMAND_REDO',['../d6/dc2/definitions_8h.html#a168945146d97d9861cd43b7060516c3f',1,'definitions.h']]],
+  ['global_5fmidi_5fcommand_5ftap_11',['GLOBAL_MIDI_COMMAND_TAP',['../d6/dc2/definitions_8h.html#a363b65921432c0a968f3c86d3d14ee2f',1,'definitions.h']]],
+  ['global_5fmidi_5fcommand_5fundo_12',['GLOBAL_MIDI_COMMAND_UNDO',['../d6/dc2/definitions_8h.html#a132238a354f913b83b39791bb59042fd',1,'definitions.h']]],
+  ['globality_5fglobal_13',['GLOBALITY_GLOBAL',['../d2/d33/patcher_8h.html#a05af5fb6f7025568e0f4f4ddc955bf22',1,'patcher.h']]],
+  ['globality_5flocal_14',['GLOBALITY_LOCAL',['../d2/d33/patcher_8h.html#adca333aa32a064a00b57f80945e59a82',1,'patcher.h']]],
+  ['greater_5for_5fequal_15',['GREATER_OR_EQUAL',['../db/d2e/_resizeable_array_8h.html#a614280d3e3f728dabdfdf89ddb566551',1,'ResizeableArray.h']]],
+  ['greyoutspeed_16',['greyoutSpeed',['../d6/dc2/definitions_8h.html#a81539bd0be3b607411241427c2c551ec',1,'definitions.h']]],
+  ['groupenabledcolourblue_17',['groupEnabledColourBlue',['../d6/dc2/definitions_8h.html#a58f3fd39bbc101191b311424f39a67fa',1,'definitions.h']]],
+  ['groupenabledcolourgreen_18',['groupEnabledColourGreen',['../d6/dc2/definitions_8h.html#aa905f32fd865792c052d2901083daad9',1,'definitions.h']]],
+  ['groupenabledcolourred_19',['groupEnabledColourRed',['../d6/dc2/definitions_8h.html#a1cce410a414ec43ecd3ef541dfbee471',1,'definitions.h']]]
+];

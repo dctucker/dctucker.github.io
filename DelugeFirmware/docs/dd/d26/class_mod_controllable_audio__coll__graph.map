@@ -1,0 +1,13 @@
+<map id="ModControllableAudio" name="ModControllableAudio">
+<area shape="rect" id="node1" title=" " alt="" coords="518,1134,751,1708"/>
+<area shape="rect" id="node2" href="$d6/d14/class_mod_controllable.html" title=" " alt="" coords="5,753,240,1041"/>
+<area shape="rect" id="node3" href="$da/dfc/class_stereo_sample.html" title=" " alt="" coords="356,5,500,159"/>
+<area shape="rect" id="node5" href="$de/d54/class_delay_buffer.html" title=" " alt="" coords="316,259,540,578"/>
+<area shape="rect" id="node6" href="$d2/dba/class_impulse_response_processor.html" title=" " alt="" coords="564,372,769,465"/>
+<area shape="rect" id="node4" href="$d3/d96/class_delay.html" title=" " alt="" coords="536,723,733,1071"/>
+<area shape="rect" id="node8" href="$df/de6/struct_stutterer.html" title=" " alt="" coords="315,843,512,951"/>
+<area shape="rect" id="node7" href="$d6/d53/class_l_f_o.html" title=" " alt="" coords="757,843,835,951"/>
+<area shape="rect" id="node9" href="$d7/da9/class_compressor.html" title=" " alt="" coords="858,768,1051,1026"/>
+<area shape="rect" id="node10" href="$dc/d93/class_midi_knob_array.html" title=" " alt="" coords="1074,836,1214,959"/>
+<area shape="rect" id="node11" href="$d2/d2a/class_resizeable_array.html" title=" " alt="" coords="1036,252,1252,585"/>
+</map>

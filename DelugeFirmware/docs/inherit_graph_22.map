@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/df5/class_consequence.html" title=" " alt="" coords="5,534,107,560"/>
+<area shape="rect" id="node2" href="$d9/d28/class_consequence_arranger_params_time_inserted.html" title=" " alt="" coords="173,5,369,46"/>
+<area shape="rect" id="node3" href="$d0/dde/class_consequence_audio_clip_set_sample.html" title=" " alt="" coords="160,70,382,96"/>
+<area shape="rect" id="node4" href="$d3/d4e/class_consequence_begin_playback.html" title=" " alt="" coords="177,120,365,145"/>
+<area shape="rect" id="node5" href="$de/da4/class_consequence_clip_begin_linear_record.html" title=" " alt="" coords="175,169,367,210"/>
+<area shape="rect" id="node6" href="$d6/dab/class_consequence_clip_existence.html" title=" " alt="" coords="180,234,362,260"/>
+<area shape="rect" id="node7" href="$df/d2b/class_consequence_clip_instance_change.html" title=" " alt="" coords="161,284,381,309"/>
+<area shape="rect" id="node8" href="$db/dcc/class_consequence_clip_instance_existence.html" title=" " alt="" coords="155,333,387,359"/>
+<area shape="rect" id="node9" href="$d8/dda/class_consequence_clip_length.html" title=" " alt="" coords="189,382,353,408"/>
+<area shape="rect" id="node10" href="$d3/dd9/class_consequence_instrument_clip_horizontal_shift.html" title=" " alt="" coords="178,432,364,473"/>
+<area shape="rect" id="node11" href="$d9/d15/class_consequence_instrument_clip_multiply.html" title=" " alt="" coords="178,497,364,538"/>
+<area shape="rect" id="node12" href="$d1/de2/class_consequence_note_array_change.html" title=" " alt="" coords="168,562,374,588"/>
+<area shape="rect" id="node13" href="$dc/d20/class_consequence_note_existence.html" title=" " alt="" coords="177,612,365,637"/>
+<area shape="rect" id="node14" href="$dd/db7/class_consequence_note_row_horizontal_shift.html" title=" " alt="" coords="163,661,379,702"/>
+<area shape="rect" id="node15" href="$d3/d63/class_consequence_note_row_length.html" title=" " alt="" coords="173,726,369,752"/>
+<area shape="rect" id="node16" href="$dc/dbb/class_consequence_note_row_mute.html" title=" " alt="" coords="178,776,364,801"/>
+<area shape="rect" id="node17" href="$d7/d21/class_consequence_output_existence.html" title=" " alt="" coords="172,825,370,851"/>
+<area shape="rect" id="node18" href="$d1/d5e/class_consequence_param_change.html" title=" " alt="" coords="179,874,363,900"/>
+<area shape="rect" id="node19" href="$de/d1e/class_consequence_scale_add_note.html" title=" " alt="" coords="178,924,364,949"/>
+<area shape="rect" id="node20" href="$db/d4c/class_consequence_swing_change.html" title=" " alt="" coords="180,973,362,999"/>
+<area shape="rect" id="node21" href="$d4/da8/class_consequence_tempo_change.html" title=" " alt="" coords="178,1022,364,1048"/>
+</map>

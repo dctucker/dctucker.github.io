@@ -1,0 +1,12 @@
+<map id="RootUI" name="RootUI">
+<area shape="rect" id="node1" title=" " alt="" coords="79,282,325,540"/>
+<area shape="rect" id="node3" href="$de/d4a/class_keyboard_screen.html" title=" " alt="" coords="5,596,188,824"/>
+<area shape="rect" id="node4" href="$d1/d91/class_timeline_view.html" title=" " alt="" coords="212,588,405,831"/>
+<area shape="rect" id="node2" href="$d8/de6/class_u_i.html" title=" " alt="" coords="107,5,297,234"/>
+<area shape="rect" id="node5" href="$d4/d29/class_arranger_view.html" title=" " alt="" coords="91,879,297,1273"/>
+<area shape="rect" id="node6" href="$d3/d6a/class_clip_navigation_timeline_view.html" title=" " alt="" coords="321,999,525,1153"/>
+<area shape="rect" id="node7" href="$d2/ded/class_clip_view.html" title=" " alt="" coords="222,1388,406,1587"/>
+<area shape="rect" id="node10" href="$d9/d81/class_session_view.html" title=" " alt="" coords="430,1321,632,1654"/>
+<area shape="rect" id="node8" href="$de/d31/class_audio_clip_view.html" title=" " alt="" coords="96,1770,289,2013"/>
+<area shape="rect" id="node9" href="$d1/d51/class_instrument_clip_view.html" title=" " alt="" coords="313,1702,557,2080"/>
+</map>

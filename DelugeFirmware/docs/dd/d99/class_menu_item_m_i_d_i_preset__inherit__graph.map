@@ -1,0 +1,10 @@
+<map id="MenuItemMIDIPreset" name="MenuItemMIDIPreset">
+<area shape="rect" id="node1" title=" " alt="" coords="184,856,350,994"/>
+<area shape="rect" id="node6" href="$d8/d3b/class_menu_item_m_i_d_i_bank.html" title=" " alt="" coords="5,1042,164,1150"/>
+<area shape="rect" id="node7" href="$d9/db0/class_menu_item_m_i_d_i_p_g_m.html" title=" " alt="" coords="188,1042,346,1150"/>
+<area shape="rect" id="node8" href="$d4/da3/class_menu_item_m_i_d_i_sub.html" title=" " alt="" coords="370,1042,522,1150"/>
+<area shape="rect" id="node2" href="$dc/d53/class_menu_item_integer.html" title=" " alt="" coords="187,699,348,808"/>
+<area shape="rect" id="node3" href="$da/db9/class_menu_item_number.html" title=" " alt="" coords="195,543,340,651"/>
+<area shape="rect" id="node4" href="$dc/d02/class_menu_item_value.html" title=" " alt="" coords="176,297,359,495"/>
+<area shape="rect" id="node5" href="$dc/d9c/class_menu_item.html" title=" " alt="" coords="150,5,385,249"/>
+</map>

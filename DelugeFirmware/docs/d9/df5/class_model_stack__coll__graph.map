@@ -1,0 +1,46 @@
+<map id="ModelStack" name="ModelStack">
+<area shape="rect" id="node1" title=" " alt="" coords="2059,5720,2216,5798"/>
+<area shape="rect" id="node2" href="$da/dc3/class_song.html" title=" " alt="" coords="2025,5263,2249,5657"/>
+<area shape="rect" id="node3" href="$de/dd1/class_timeline_counter.html" title=" " alt="" coords="2508,1504,2732,1807"/>
+<area shape="rect" id="node29" href="$d6/d48/class_clip.html" title=" " alt="" coords="2231,1964,2412,2402"/>
+<area shape="rect" id="node4" href="$d7/dbb/class_param_manager_for_timeline.html" title=" " alt="" coords="2521,999,2719,1243"/>
+<area shape="rect" id="node5" href="$d6/dbc/class_param_manager.html" title=" " alt="" coords="2498,543,2742,816"/>
+<area shape="rect" id="node6" href="$d6/dd5/class_param_collection_summary.html" title=" " alt="" coords="2518,312,2722,450"/>
+<area shape="rect" id="node7" href="$d0/d60/class_param_collection.html" title=" " alt="" coords="2530,5,2710,249"/>
+<area shape="rect" id="node8" href="$d8/d6c/class_global_effectable_for_song.html" title=" " alt="" coords="1280,4980,1466,5073"/>
+<area shape="rect" id="node9" href="$d9/d89/class_global_effectable.html" title=" " alt="" coords="743,4366,985,4789"/>
+<area shape="rect" id="node10" href="$d4/dd5/class_mod_controllable_audio.html" title=" " alt="" coords="737,3729,970,4303"/>
+<area shape="rect" id="node11" href="$d6/d14/class_mod_controllable.html" title=" " alt="" coords="5,3180,240,3468"/>
+<area shape="rect" id="node39" href="$db/d87/class_non_audio_instrument.html" title=" " alt="" coords="1031,4426,1225,4729"/>
+<area shape="rect" id="node12" href="$da/dfc/class_stereo_sample.html" title=" " alt="" coords="572,2106,716,2260"/>
+<area shape="rect" id="node14" href="$de/d54/class_delay_buffer.html" title=" " alt="" coords="532,2626,756,2944"/>
+<area shape="rect" id="node15" href="$d2/dba/class_impulse_response_processor.html" title=" " alt="" coords="780,2738,985,2832"/>
+<area shape="rect" id="node13" href="$d3/d96/class_delay.html" title=" " alt="" coords="752,3150,949,3498"/>
+<area shape="rect" id="node17" href="$df/de6/struct_stutterer.html" title=" " alt="" coords="531,3270,728,3378"/>
+<area shape="rect" id="node16" href="$d6/d53/class_l_f_o.html" title=" " alt="" coords="973,3270,1051,3378"/>
+<area shape="rect" id="node18" href="$d7/da9/class_compressor.html" title=" " alt="" coords="1074,3195,1267,3453"/>
+<area shape="rect" id="node19" href="$dc/d93/class_midi_knob_array.html" title=" " alt="" coords="1238,1357,1378,1480"/>
+<area shape="rect" id="node20" href="$d2/d2a/class_resizeable_array.html" title=" " alt="" coords="1336,513,1552,846"/>
+<area shape="rect" id="node24" href="$db/def/class_resizeable_pointer_array.html" title=" " alt="" coords="1355,1059,1533,1183"/>
+<area shape="rect" id="node28" href="$d6/d3d/class_ordered_resizeable_array.html" title=" " alt="" coords="1573,992,1763,1250"/>
+<area shape="rect" id="node21" href="$dd/dc5/class_filter_set.html" title=" " alt="" coords="273,3887,505,4145"/>
+<area shape="rect" id="node22" href="$d2/d89/class_basic_filter_component.html" title=" " alt="" coords="264,3240,456,3408"/>
+<area shape="rect" id="node23" href="$d5/d21/class_clip_array.html" title=" " alt="" coords="1408,2426,1549,2549"/>
+<area shape="rect" id="node25" href="$db/db4/class_output.html" title=" " alt="" coords="2107,2573,2333,2997"/>
+<area shape="rect" id="node35" href="$df/d4d/class_instrument.html" title=" " alt="" coords="2322,3135,2534,3513"/>
+<area shape="rect" id="node26" href="$d9/d5f/class_clip_instance_vector.html" title=" " alt="" coords="1726,2136,1879,2230"/>
+<area shape="rect" id="node27" href="$d6/d68/class_ordered_resizeable_array_with32bit_key.html" title=" " alt="" coords="1557,1542,1798,1770"/>
+<area shape="rect" id="node36" href="$df/d8b/class_ordered_resizeable_array_with_multi_word_key.html" title=" " alt="" coords="1607,3537,1809,3705"/>
+<area shape="rect" id="node41" href="$da/d91/class_arpeggiator.html" title=" " alt="" coords="1822,1579,2034,1732"/>
+<area shape="rect" id="node43" href="$dc/de0/class_early_note_array.html" title=" " alt="" coords="1464,1831,1669,1940"/>
+<area shape="rect" id="node30" href="$d3/d98/class_learned_m_i_d_i.html" title=" " alt="" coords="2059,1519,2293,1792"/>
+<area shape="rect" id="node37" href="$df/d29/class_section.html" title=" " alt="" coords="2014,3027,2138,3105"/>
+<area shape="rect" id="node40" href="$d8/dbe/class_melodic_instrument.html" title=" " alt="" coords="1745,3887,1991,4145"/>
+<area shape="rect" id="node31" href="$d4/dc1/class_m_i_d_i_device.html" title=" " alt="" coords="2064,909,2288,1333"/>
+<area shape="rect" id="node32" href="$d0/db3/class_m_i_d_i_port.html" title=" " alt="" coords="1945,566,2188,794"/>
+<area shape="rect" id="node33" href="$d4/d7b/class_m_i_d_i_input_channel.html" title=" " alt="" coords="2212,626,2359,734"/>
+<area shape="rect" id="node34" href="$de/d61/class_string.html" title=" " alt="" coords="2612,2069,2761,2297"/>
+<area shape="rect" id="node38" href="$de/d1e/class_m_i_d_i_instrument.html" title=" " alt="" coords="1005,4852,1251,5200"/>
+<area shape="rect" id="node42" href="$db/d48/class_arpeggiator_base.html" title=" " alt="" coords="1821,977,2035,1265"/>
+<area shape="rect" id="node44" href="$df/d93/struct_m_p_e_output_member_channel.html" title=" " alt="" coords="534,4516,719,4639"/>
+</map>

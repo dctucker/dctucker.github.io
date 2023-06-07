@@ -1,0 +1,9 @@
+<map id="Kit" name="Kit">
+<area shape="rect" id="node1" title=" " alt="" coords="150,1906,343,2179"/>
+<area shape="rect" id="node2" href="$df/d4d/class_instrument.html" title=" " alt="" coords="18,1464,230,1858"/>
+<area shape="rect" id="node3" href="$db/db4/class_output.html" title=" " alt="" coords="5,933,232,1416"/>
+<area shape="rect" id="node4" href="$d8/d3c/class_global_effectable_for_clip.html" title=" " alt="" coords="265,1517,473,1805"/>
+<area shape="rect" id="node5" href="$d9/d89/class_global_effectable.html" title=" " alt="" coords="255,956,497,1394"/>
+<area shape="rect" id="node6" href="$d4/dd5/class_mod_controllable_audio.html" title=" " alt="" coords="259,342,493,885"/>
+<area shape="rect" id="node7" href="$d6/d14/class_mod_controllable.html" title=" " alt="" coords="259,5,493,294"/>
+</map>

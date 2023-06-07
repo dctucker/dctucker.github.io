@@ -1,0 +1,8 @@
+<map id="ContextMenuForSaving" name="ContextMenuForSaving">
+<area shape="rect" id="node1" title=" " alt="" coords="217,633,396,756"/>
+<area shape="rect" id="node4" href="$d6/d00/class_context_menu_delete_file.html" title=" " alt="" coords="5,834,184,943"/>
+<area shape="rect" id="node5" href="$dd/d04/class_context_menu_overwrite_file.html" title=" " alt="" coords="208,834,405,943"/>
+<area shape="rect" id="node6" href="$d6/daa/class_save_song_or_instrument_context_menu.html" title=" " alt="" coords="429,804,664,973"/>
+<area shape="rect" id="node2" href="$d8/d72/class_context_menu.html" title=" " alt="" coords="208,282,405,585"/>
+<area shape="rect" id="node3" href="$d8/de6/class_u_i.html" title=" " alt="" coords="212,5,401,234"/>
+</map>

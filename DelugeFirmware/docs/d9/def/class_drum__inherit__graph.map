@@ -1,0 +1,7 @@
+<map id="Drum" name="Drum">
+<area shape="rect" id="node1" title=" " alt="" coords="178,5,388,384"/>
+<area shape="rect" id="node2" href="$d0/d8c/class_non_audio_drum.html" title=" " alt="" coords="70,447,275,705"/>
+<area shape="rect" id="node5" href="$d0/da3/class_sound_drum.html" title=" " alt="" coords="300,432,488,720"/>
+<area shape="rect" id="node3" href="$d5/d03/class_gate_drum.html" title=" " alt="" coords="5,813,148,981"/>
+<area shape="rect" id="node4" href="$d1/dce/class_m_i_d_i_drum.html" title=" " alt="" coords="171,768,366,1026"/>
+</map>

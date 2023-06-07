@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['default_5farranger_5fzoom_0',['DEFAULT_ARRANGER_ZOOM',['../d6/dc2/definitions_8h.html#a68f6317f276c86474c8dc30e052d99a4',1,'definitions.h']]],
+  ['default_5fclip_5flength_1',['DEFAULT_CLIP_LENGTH',['../d6/dc2/definitions_8h.html#af2fca5133439f14467e7f68ae0af5bf8',1,'definitions.h']]],
+  ['default_5flift_5fvalue_2',['DEFAULT_LIFT_VALUE',['../d6/dc2/definitions_8h.html#a2882f7cdb8f9502c22da2a08b2b4ff00',1,'definitions.h']]],
+  ['delay_5fbuffer_5fmax_5fsize_3',['DELAY_BUFFER_MAX_SIZE',['../d5/d1c/_delay_buffer_8h.html#a9e0b4f7f932d69dd2f820d095af304f5',1,'DelayBuffer.h']]],
+  ['delay_5fbuffer_5fmin_5fsize_4',['DELAY_BUFFER_MIN_SIZE',['../d5/d1c/_delay_buffer_8h.html#a759deca526c0809d2c7402fac464e8e3',1,'DelayBuffer.h']]],
+  ['delay_5fbuffer_5fneutral_5fsize_5',['DELAY_BUFFER_NEUTRAL_SIZE',['../d5/d1c/_delay_buffer_8h.html#af0064f9e71f60e86ebbe215eb007e716',1,'DelayBuffer.h']]],
+  ['delayspacebetweenreadandwrite_6',['delaySpaceBetweenReadAndWrite',['../d5/d1c/_delay_buffer_8h.html#a39b9e1f225598f6d13e9f409e0644de1',1,'DelayBuffer.h']]],
+  ['delete_7',['DELETE',['../d6/dc2/definitions_8h.html#abbbe5949f3c1f72e439924f8cf503509',1,'definitions.h']]],
+  ['difference_5flpf_5fpoles_8',['DIFFERENCE_LPF_POLES',['../d6/dc2/definitions_8h.html#a0120de19b425ed928281235449d1c21c',1,'definitions.h']]],
+  ['dir_5ffilesize_9',['DIR_FileSize',['../d6/dc2/definitions_8h.html#abfbfa613864a02a65f0bf70ead6672c7',1,'definitions.h']]],
+  ['disabledcolourblue_10',['disabledColourBlue',['../d6/dc2/definitions_8h.html#a78262d8e6593a11aa9a577aad02056f7',1,'definitions.h']]],
+  ['disabledcolourgreen_11',['disabledColourGreen',['../d6/dc2/definitions_8h.html#a9bee538d2934aa8e2ce721b187d68118',1,'definitions.h']]],
+  ['disabledcolourred_12',['disabledColourRed',['../d6/dc2/definitions_8h.html#a599f715e26e7e456359f75cd2b1c15db',1,'definitions.h']]],
+  ['displayheight_13',['displayHeight',['../d6/dc2/definitions_8h.html#a6f97377fa436cd436b24c52f66f4aab9',1,'definitions.h']]],
+  ['displayheightmagnitude_14',['displayHeightMagnitude',['../d6/dc2/definitions_8h.html#ab1d07f4e3e0c0fe415fb91afa763ae14',1,'definitions.h']]],
+  ['displaywidth_15',['displayWidth',['../d6/dc2/definitions_8h.html#a3cf6de6b2b0d5c61335f1b392decc113',1,'definitions.h']]],
+  ['displaywidthmagnitude_16',['displayWidthMagnitude',['../d6/dc2/definitions_8h.html#af04b898d49d28158b10289e7c96583eb',1,'definitions.h']]],
+  ['do_5faudio_5flog_17',['DO_AUDIO_LOG',['../d6/d47/_audio_engine_8cpp.html#a5e7f75167a9533801b4fbcddc3f0b080',1,'AudioEngine.cpp']]],
+  ['double_5ftap_5fms_18',['DOUBLE_TAP_MS',['../d6/dc2/definitions_8h.html#a9a090128ef8f21e346cbb214ff5da604',1,'definitions.h']]],
+  ['drum_5ftype_5fgate_19',['DRUM_TYPE_GATE',['../d6/dc2/definitions_8h.html#a1835035f82f7e10da9fb9f83215a3601',1,'definitions.h']]],
+  ['drum_5ftype_5fmidi_20',['DRUM_TYPE_MIDI',['../d6/dc2/definitions_8h.html#a4a9397b18d7e948386778180a98b1ecd',1,'definitions.h']]],
+  ['drum_5ftype_5fsound_21',['DRUM_TYPE_SOUND',['../d6/dc2/definitions_8h.html#a1877658fed03d53248df56585b44b5d7',1,'definitions.h']]]
+];

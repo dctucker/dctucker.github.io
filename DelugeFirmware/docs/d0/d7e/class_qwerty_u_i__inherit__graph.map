@@ -1,0 +1,16 @@
+<map id="QwertyUI" name="QwertyUI">
+<area shape="rect" id="node1" title=" " alt="" coords="466,282,649,555"/>
+<area shape="rect" id="node3" href="$db/dc8/class_browser.html" title=" " alt="" coords="323,603,555,1551"/>
+<area shape="rect" id="node12" href="$d8/da6/class_rename_u_i.html" title=" " alt="" coords="624,1038,728,1116"/>
+<area shape="rect" id="node2" href="$d8/de6/class_u_i.html" title=" " alt="" coords="463,5,652,234"/>
+<area shape="rect" id="node4" href="$df/d27/class_sample_browser.html" title=" " alt="" coords="90,1599,297,1903"/>
+<area shape="rect" id="node5" href="$d9/d67/class_slot_browser.html" title=" " alt="" coords="321,1622,557,1880"/>
+<area shape="rect" id="node6" href="$d0/d3a/class_load_u_i.html" title=" " alt="" coords="226,2003,427,2112"/>
+<area shape="rect" id="node9" href="$d7/dc8/class_save_u_i.html" title=" " alt="" coords="457,1951,647,2164"/>
+<area shape="rect" id="node7" href="$d4/db4/class_load_instrument_preset_u_i.html" title=" " alt="" coords="5,2220,195,2508"/>
+<area shape="rect" id="node8" href="$d8/d39/class_load_song_u_i.html" title=" " alt="" coords="219,2212,435,2515"/>
+<area shape="rect" id="node10" href="$d9/d25/class_save_instrument_preset_u_i.html" title=" " alt="" coords="459,2287,645,2440"/>
+<area shape="rect" id="node11" href="$d2/d19/class_save_song_u_i.html" title=" " alt="" coords="669,2295,808,2433"/>
+<area shape="rect" id="node13" href="$d6/d7f/class_rename_drum_u_i.html" title=" " alt="" coords="581,1667,771,1835"/>
+<area shape="rect" id="node14" href="$d5/d9d/class_rename_output_u_i.html" title=" " alt="" coords="795,1667,984,1835"/>
+</map>
